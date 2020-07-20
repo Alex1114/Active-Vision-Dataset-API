@@ -58,6 +58,6 @@ Example
 ```
 python3 images2rosbag.py /home/alex/Dataset/Active_Vision_Dataset/ActiveVisionDataset/Home_001_1/jpg_rgb Home_001_1.bag
 ```  
-rosbag play in rviz  
+Rosbag play in rviz  
 ![rviz](figures/avd_rosbag.gif)  
 
